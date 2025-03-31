@@ -1,0 +1,5 @@
+git+https://github.com/ly4k/ldap3.git
+typer
+impacket
+pycryptodome
+pyinstaller
